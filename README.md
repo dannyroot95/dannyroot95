@@ -3,7 +3,7 @@
 ```shell
  { “message” : “Hello World”,
    “name” : “Danny Jesús Samán Pacamía”,
-   “role” : “Frontend Dev | Mobile Dev | IoT Dev”,
+   “role” : “Web Dev | Mobile Dev | IoT Dev”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/danny-jes%C3%BAs-sam%C3%A1n-pacam%C3%ADa-752218206/", 
