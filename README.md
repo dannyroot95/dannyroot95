@@ -1,11 +1,9 @@
- { “meessage” : “Hello World!”
-   “name” : “Danny Jesús Samán Pacamía”,
-   “role” : “Mobile Dev | Web Dev | IoT Dev”,
-   “data” : 
+  { “name” : “Verónica Moreno Flores”,
+   “role” : “Frontend Dev | MERN Stack”,
+   “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/danny-jes%C3%BAs-sam%C3%A1n-pacam%C3%ADa-752218206/", 
-      "IG"       : "https://www.instagram.com/danny_developer95/"
+      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
+      "Resume"   : "https://veromoreno.github.io/",
+      "IG"       : "https://www.instagram.com/veritechie"
      }
  }
-
-x
