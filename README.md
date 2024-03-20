@@ -47,4 +47,7 @@
 - GraphQL / Docker 
 - React JS
 - MVVM Architecture
+- Spring boot
+- Angular
+- VUE
 </br>
